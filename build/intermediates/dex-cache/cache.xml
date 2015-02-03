@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/pre-dexed/debug/classes-70f056e97f63ad5d672e6d0e24204de15554c35d.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/pre-dexed/debug/classes-ea27ccbe64242488dc2c8d33eea9f2bbd9aad6e7.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ba94f9a8bb42c3610e0755dd52828ea7c1827e45.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da2967d5b53dba30ef1943da3cd77950dd5e601d.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/tedliang/GitHub/ReplaceViewSample/app/build/intermediates/pre-dexed/debug/classes-9b0ded8cfe3cfe986ea0bf1bf3c993a62c903535.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cf7bb07e9a79b8a7bc5f34b5293f6882904bb6ca.jar" />
+    </item>
+    <item
+        jar="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/tedliang/GitHub/InfiniteListView/app/build/intermediates/pre-dexed/debug/classes-278a1accab5b8af4ec205e2b22b0b55bf2231843.jar" />
+    </item>
+
+</items>
